@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "nft-preview-card-component-main",
+			"path": "../../nft-preview-card-component-main"
+		},
+		{
+			"name": "mi reto",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "mi reto"
+	}
+}
